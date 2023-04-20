@@ -6,3 +6,4 @@ lib
 .vscode
 dist
 lerna-debug.log
+.jsbeautifyrc
