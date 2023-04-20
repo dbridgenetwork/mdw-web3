@@ -29,8 +29,8 @@ yarn add mdw-web3-provider
 All the TypeScript typings are placed in the `types` folder.
 
 [docs]: https://docs.mydappwallet.com
-[[repo]: https://gitlab.com/mydappwallet/mdw-web3
-[repo-readme]: https://gitlab.com/mydappwallet/mdw-web3/README.md
+[[repo]: https://github.com/dbridgenetwork/mdw-web3
+[repo-readme]: https://github.com/dbridgenetwork/mdw-web3/README.md
 [npm-image]: https://img.shields.io/npm/v/web3.svg
 [npm-url]: https://npmjs.org/package/mdw-web3-provider
 [4xdoc]: https://docs.web3js.org/
