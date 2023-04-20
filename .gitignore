@@ -1,1 +1,8 @@
 node_modules
+.project
+lib
+.gitingnore
+.settings
+.vscode
+dist
+lerna-debug.log
