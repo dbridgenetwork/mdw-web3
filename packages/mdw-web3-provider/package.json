@@ -1,0 +1,27 @@
+{
+    "name": "mdw-web3-provider",
+    "version": "1.0.0",
+    "description": "myDAPPwallet JavaScript API",
+    "repository": "https://github.com/mdw/mdw-web3.js",
+    "license": "LGPL-3.0",
+    "engines": {
+        "node": ">=11.0.0"
+    },
+    "main": "lib/index.js",
+    "types": "types/index.d.ts",
+    "scripts": {
+        "compile": "tsc -b tsconfig.json",
+        "dtslint": "dtslint --localTs ../../node_modules/typescript/lib types"
+    },
+    "dependencies": {
+       "web3": "^1.9.0",
+       "web3-core-helpers": "^1.9.0",
+        "web3-utils": "^1.9.0",
+        "xhr2-cookies": "^0.9.1"
+    },
+     "devDependencies": {
+        "@types/node": "^18.15.11",
+        "dtslint": "^3.6.4",
+        "typescript": "5.0.4"
+    }
+}
