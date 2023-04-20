@@ -7,3 +7,5 @@ lib
 dist
 lerna-debug.log
 .jsbeautifyrc
+packages/mdw-web3/dist
+packages/mdw-web3/lib
